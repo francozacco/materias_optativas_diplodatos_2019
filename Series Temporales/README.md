@@ -14,4 +14,4 @@ Para correr el notebook-jupyter, es necesario tener los siguientes paquetes inst
 * statsmodels==0.10.0
 
 Además necesitamos la libreria plotting.py, que se deberá encontrar en el mismo directorio que el notebook (TP01.ipynb), 
-asi como tambien el dataset a utilizar (dataset/Telefonia_movil.csv)
+asi como tambien el dataset a utilizar (datasets/Telefonia_movil.csv)
